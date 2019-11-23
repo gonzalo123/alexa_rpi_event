@@ -1,0 +1,6 @@
+[GadgetSettings]
+amazonId = my_amazonId
+alexaGadgetSecret = my_alexaGadgetSecret
+
+[GadgetCapabilities]
+Custom.gonzalo123 = 1.0

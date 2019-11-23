@@ -1,0 +1,6 @@
+lambda/node_modules
+.ask/
+hooks/
+pi/gadget.ini
+tests/events
+serverless.yml
